@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="appleSign.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lapis apple shop sign instance 10000" x="0" y="0" width="124" height="136" frameX="0" frameY="-4" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10001" x="0" y="0" width="124" height="136" frameX="0" frameY="-4" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10002" x="0" y="161" width="122" height="138" frameX="-1" frameY="-2" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10003" x="0" y="161" width="122" height="138" frameX="-1" frameY="-2" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10004" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10005" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10006" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10007" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10008" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10009" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10010" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10011" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10012" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+	<SubTexture name="lapis apple shop sign instance 10013" x="0" y="324" width="119" height="140" frameX="-2" frameY="0" frameWidth="124" frameHeight="140"/>
+</TextureAtlas>

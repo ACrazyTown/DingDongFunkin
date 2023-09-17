@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frontbuildings.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="city bg copy instance 10000" x="0" y="0" width="2800" height="962"/>
+	<SubTexture name="city bg copy instance 10001" x="0" y="962" width="2800" height="962"/>
+	<SubTexture name="city bg copy instance 10002" x="0" y="1924" width="2800" height="962"/>
+	<SubTexture name="city bg copy instance 10003" x="0" y="2886" width="2800" height="962"/>
+	<SubTexture name="city bg copy instance 10004" x="0" y="3848" width="2800" height="962"/>
+	<SubTexture name="city bg instance 10000" x="0" y="4810" width="2800" height="962"/>
+</TextureAtlas>

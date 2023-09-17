@@ -1,0 +1,90 @@
+{
+    "format": "SPARROW",
+    "character": "bf",
+    "animations": 
+    [
+        {
+            "name": "idle",
+            "prefix": "BF idle dance",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-5]
+        },
+        {
+            "name": "singUP",
+            "prefix": "BF NOTE UP instance",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-29, 27]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "BF NOTE LEFT instance",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [12, -6]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "BF NOTE RIGHT instance",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-38, -7]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "BF NOTE DOWN instance",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-10, -50]
+        },
+        {
+            "name": "singUPmiss",
+            "prefix": "BF NOTE UP MISS",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-29, 27]
+        },
+        {
+            "name": "singLEFTmiss",
+            "prefix": "BF NOTE LEFT MISS",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [12, 24]
+        },
+        {
+            "name": "singRIGHTmiss",
+            "prefix": "BF NOTE RIGHT MISS",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-30, 21]
+        },
+        {
+            "name": "singDOWNmiss",
+            "prefix": "BF NOTE DOWN MISS",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-11, -19]
+        },
+        {
+            "name": "hey",
+            "prefix": "BF HEY",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [7, 4]
+        }
+    ],
+    "flipX": false,
+    "isGF": false,
+    "color": "#31B0D1"
+}

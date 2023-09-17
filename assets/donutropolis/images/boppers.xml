@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppers.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop people copy instance 10000" x="0" y="0" width="2292" height="652" frameX="-11" frameY="-8" frameWidth="2314" frameHeight="660"/>
+	<SubTexture name="bop people copy instance 10001" x="0" y="0" width="2292" height="652" frameX="-11" frameY="-8" frameWidth="2314" frameHeight="660"/>
+	<SubTexture name="bop people copy instance 10002" x="0" y="652" width="2296" height="654" frameX="-9" frameY="-6" frameWidth="2314" frameHeight="660"/>
+	<SubTexture name="bop people copy instance 10003" x="0" y="652" width="2296" height="654" frameX="-9" frameY="-6" frameWidth="2314" frameHeight="660"/>
+	<SubTexture name="bop people copy instance 10004" x="0" y="1306" width="2310" height="659" frameX="-2" frameY="-1" frameWidth="2314" frameHeight="660"/>
+	<SubTexture name="bop people copy instance 10005" x="0" y="1306" width="2310" height="659" frameX="-2" frameY="-1" frameWidth="2314" frameHeight="660"/>
+	<SubTexture name="bop people copy instance 10006" x="0" y="1965" width="2314" height="660"/>
+	<SubTexture name="bop people copy instance 10007" x="0" y="1965" width="2314" height="660"/>
+	<SubTexture name="bop people instance 10000" x="0" y="2625" width="2288" height="649" frameX="-11" frameY="-8" frameWidth="2310" frameHeight="657"/>
+	<SubTexture name="bop people instance 10001" x="0" y="2625" width="2288" height="649" frameX="-11" frameY="-8" frameWidth="2310" frameHeight="657"/>
+	<SubTexture name="bop people instance 10002" x="0" y="3274" width="2292" height="651" frameX="-9" frameY="-6" frameWidth="2310" frameHeight="657"/>
+	<SubTexture name="bop people instance 10003" x="0" y="3274" width="2292" height="651" frameX="-9" frameY="-6" frameWidth="2310" frameHeight="657"/>
+	<SubTexture name="bop people instance 10004" x="0" y="3925" width="2307" height="656" frameX="-2" frameY="-1" frameWidth="2310" frameHeight="657"/>
+	<SubTexture name="bop people instance 10005" x="0" y="3925" width="2307" height="656" frameX="-2" frameY="-1" frameWidth="2310" frameHeight="657"/>
+	<SubTexture name="bop people instance 10006" x="0" y="4581" width="2310" height="657"/>
+	<SubTexture name="bop people instance 10007" x="0" y="4581" width="2310" height="657"/>
+</TextureAtlas>

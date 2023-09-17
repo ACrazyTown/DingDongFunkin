@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="checkbox.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CHECKED0000" x="0" y="361" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="CHECKED0001" x="0" y="361" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="CHECKED0002" x="195" y="361" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="CHECKED0003" x="195" y="361" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="CHECKED0004" x="0" y="541" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="CHECKED0005" x="0" y="541" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="CHECKED0006" x="190" y="541" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="CHECKED0007" x="190" y="541" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="UNCHECK0000" x="0" y="0" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="UNCHECK0001" x="0" y="0" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="UNCHECK0002" x="0" y="0" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="UNCHECK0003" x="0" y="0" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="UNCHECK0004" x="195" y="0" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="UNCHECK0005" x="195" y="0" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="UNCHECK0006" x="195" y="0" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="UNCHECK0007" x="195" y="0" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="box0000" x="0" y="180" width="183" height="169" frameX="0" frameY="-2" frameWidth="186" frameHeight="171"/>
+	<SubTexture name="box0001" x="0" y="180" width="183" height="169" frameX="0" frameY="-2" frameWidth="186" frameHeight="171"/>
+	<SubTexture name="box0002" x="0" y="180" width="183" height="169" frameX="0" frameY="-2" frameWidth="186" frameHeight="171"/>
+	<SubTexture name="box0003" x="0" y="180" width="183" height="169" frameX="0" frameY="-2" frameWidth="186" frameHeight="171"/>
+	<SubTexture name="box0004" x="195" y="180" width="178" height="164" frameX="-8" frameY="0" frameWidth="186" frameHeight="171"/>
+	<SubTexture name="box0005" x="195" y="180" width="178" height="164" frameX="-8" frameY="0" frameWidth="186" frameHeight="171"/>
+	<SubTexture name="box0006" x="195" y="180" width="178" height="164" frameX="-8" frameY="0" frameWidth="186" frameHeight="171"/>
+	<SubTexture name="box0007" x="195" y="180" width="178" height="164" frameX="-8" frameY="0" frameWidth="186" frameHeight="171"/>
+	<SubTexture name="check Idle0000" x="0" y="361" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="check Idle0001" x="0" y="361" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="check Idle0002" x="195" y="361" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="check Idle0003" x="195" y="361" width="183" height="168" frameX="0" frameY="-2" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="check Idle0004" x="0" y="541" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="check Idle0005" x="0" y="541" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="check Idle0006" x="190" y="541" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+	<SubTexture name="check Idle0007" x="190" y="541" width="178" height="163" frameX="-8" frameY="0" frameWidth="186" frameHeight="170"/>
+</TextureAtlas>

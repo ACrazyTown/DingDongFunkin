@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-stress.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lapis Ocean Speaker Dance0000" x="5" y="704" width="703" height="690" frameX="0" frameY="-4" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0001" x="5" y="704" width="703" height="690" frameX="0" frameY="-4" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0002" x="713" y="1399" width="699" height="691" frameX="-2" frameY="-3" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0003" x="2125" y="1401" width="699" height="691" frameX="-2" frameY="-3" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0004" x="2829" y="1401" width="699" height="690" frameX="-2" frameY="-4" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0005" x="1417" y="1402" width="699" height="690" frameX="-2" frameY="-4" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0006" x="2125" y="704" width="699" height="692" frameX="-2" frameY="-2" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0007" x="1421" y="704" width="699" height="693" frameX="-2" frameY="-1" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0008" x="1421" y="704" width="699" height="693" frameX="-2" frameY="-1" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0009" x="1421" y="704" width="699" height="693" frameX="-2" frameY="-1" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0010" x="5" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0011" x="5" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0012" x="5" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0013" x="709" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0014" x="709" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0015" x="1413" y="2097" width="699" height="688" frameX="-2" frameY="-6" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0016" x="5" y="1399" width="703" height="688" frameX="0" frameY="-6" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0017" x="713" y="704" width="703" height="690" frameX="0" frameY="-4" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0018" x="5" y="2092" width="699" height="690" frameX="-2" frameY="-4" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0019" x="709" y="2095" width="699" height="690" frameX="-2" frameY="-4" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0020" x="2829" y="2096" width="699" height="690" frameX="-2" frameY="-4" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0021" x="2829" y="704" width="699" height="692" frameX="-2" frameY="-2" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0022" x="1413" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0023" x="1413" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0024" x="1413" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0025" x="2117" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0026" x="2117" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0027" x="2117" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0028" x="2821" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+	<SubTexture name="Lapis Ocean Speaker Dance0029" x="2821" y="5" width="699" height="694" frameX="-2" frameY="0" frameWidth="703" frameHeight="694"/>
+</TextureAtlas>

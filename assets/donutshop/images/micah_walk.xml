@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="micah_walk.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="micah walk instance 10000" x="0" y="0" width="231" height="374" frameX="-3" frameY="0" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10001" x="0" y="0" width="231" height="374" frameX="-3" frameY="0" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10002" x="0" y="0" width="231" height="374" frameX="-3" frameY="0" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10003" x="237" y="0" width="217" height="375" frameX="-2" frameY="-3" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10004" x="237" y="0" width="217" height="375" frameX="-2" frameY="-3" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10005" x="237" y="0" width="217" height="375" frameX="-2" frameY="-3" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10006" x="460" y="0" width="217" height="362" frameX="-5" frameY="-12" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10007" x="460" y="0" width="217" height="362" frameX="-5" frameY="-12" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10008" x="460" y="0" width="217" height="362" frameX="-5" frameY="-12" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10009" x="683" y="0" width="230" height="375" frameX="0" frameY="0" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10010" x="683" y="0" width="230" height="375" frameX="0" frameY="0" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10011" x="683" y="0" width="230" height="375" frameX="0" frameY="0" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10012" x="919" y="0" width="212" height="363" frameX="-1" frameY="-15" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10013" x="919" y="0" width="212" height="363" frameX="-1" frameY="-15" frameWidth="233" frameHeight="378"/>
+	<SubTexture name="micah walk instance 10014" x="919" y="0" width="212" height="363" frameX="-1" frameY="-15" frameWidth="233" frameHeight="378"/>
+</TextureAtlas>

@@ -1,0 +1,83 @@
+{
+    "format": "SPARROW",
+    "character": "bf-holding-gf",
+    "animations": 
+    [
+        {
+            "name": "idle",
+            "prefix": "BF idle dance w gf",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "BF NOTE UP0",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-40, 7]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "BF NOTE LEFT0",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [7, -1]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "BF NOTE RIGHT0",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-44, 18]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "BF NOTE DOWN0",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-19, -16]
+        },
+        {
+            "name": "singUPmiss",
+            "prefix": "BF NOTE UP MISS",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-40, 7]
+        },
+        {
+            "name": "singLEFTmiss",
+            "prefix": "BF NOTE LEFT MISS",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [7, 4]
+        },
+        {
+            "name": "singRIGHTmiss",
+            "prefix": "BF NOTE RIGHT MISS",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-44, 36]
+        },
+        {
+            "name": "singDOWNmiss",
+            "prefix": "BF NOTE DOWN MISS",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-26, -9]
+        }
+    ],
+    "flipX": false,
+    "isGF": false,
+    "deathChar": "bf-holding-gf-dead",
+    "color": "#31B0D1"
+}

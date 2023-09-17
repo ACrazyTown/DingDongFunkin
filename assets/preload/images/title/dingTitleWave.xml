@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dingTitleWave.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sussy instance 10000" x="0" y="0" width="324" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10001" x="330" y="0" width="324" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10002" x="660" y="0" width="325" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10003" x="991" y="0" width="325" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10004" x="1322" y="0" width="326" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10005" x="1654" y="0" width="327" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10006" x="1987" y="0" width="329" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10007" x="2322" y="0" width="329" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10008" x="2657" y="0" width="330" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10009" x="0" y="341" width="331" height="335"/>
+	<SubTexture name="sussy instance 10010" x="337" y="341" width="331" height="335"/>
+	<SubTexture name="sussy instance 10011" x="674" y="341" width="331" height="335"/>
+	<SubTexture name="sussy instance 10012" x="1011" y="341" width="331" height="335"/>
+	<SubTexture name="sussy instance 10013" x="1348" y="341" width="331" height="335"/>
+	<SubTexture name="sussy instance 10014" x="1685" y="341" width="331" height="335"/>
+	<SubTexture name="sussy instance 10015" x="2022" y="341" width="330" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10016" x="2358" y="341" width="330" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10017" x="0" y="682" width="329" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10018" x="335" y="682" width="327" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10019" x="668" y="682" width="326" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10020" x="1000" y="682" width="326" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10021" x="1332" y="682" width="325" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10022" x="1663" y="682" width="325" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10023" x="1994" y="682" width="324" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10024" x="2324" y="682" width="324" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10025" x="2654" y="682" width="324" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10026" x="0" y="1023" width="325" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10027" x="331" y="1023" width="325" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10028" x="662" y="1023" width="326" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10029" x="335" y="682" width="327" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10030" x="994" y="1023" width="329" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10031" x="1329" y="1023" width="329" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10032" x="1664" y="1023" width="330" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10033" x="2000" y="1023" width="331" height="335"/>
+	<SubTexture name="sussy instance 10034" x="2337" y="1023" width="331" height="335"/>
+	<SubTexture name="sussy instance 10035" x="0" y="1364" width="331" height="335"/>
+	<SubTexture name="sussy instance 10036" x="0" y="1364" width="331" height="335"/>
+	<SubTexture name="sussy instance 10037" x="337" y="1364" width="331" height="335"/>
+	<SubTexture name="sussy instance 10038" x="1685" y="341" width="331" height="335"/>
+	<SubTexture name="sussy instance 10039" x="2022" y="341" width="330" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10040" x="2358" y="341" width="330" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10041" x="0" y="682" width="329" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10042" x="335" y="682" width="327" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10043" x="668" y="682" width="326" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10044" x="674" y="1364" width="326" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10045" x="1006" y="1364" width="325" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10046" x="1337" y="1364" width="325" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+	<SubTexture name="sussy instance 10047" x="1668" y="1364" width="324" height="335" frameX="0" frameY="0" frameWidth="331" frameHeight="335"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="donut shop instance 10000" x="0" y="0" width="440" height="369"/>
+	<SubTexture name="donut shop instance 10001" x="0" y="0" width="440" height="369"/>
+	<SubTexture name="donut shop instance 10002" x="465" y="0" width="426" height="369" frameX="-8" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10003" x="465" y="0" width="426" height="369" frameX="-8" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10004" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10005" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10006" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10007" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10008" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10009" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10010" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10011" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10012" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10013" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10014" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+	<SubTexture name="donut shop instance 10015" x="0" y="394" width="417" height="369" frameX="-12" frameY="0" frameWidth="440" frameHeight="369"/>
+</TextureAtlas>

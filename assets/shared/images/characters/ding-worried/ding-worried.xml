@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ding-worried.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dingd Down Worried0000" x="1401" y="1721" width="344" height="545" frameX="0" frameY="-4" frameWidth="344" frameHeight="549"/>
+	<SubTexture name="dingd Down Worried0001" x="1401" y="1721" width="344" height="545" frameX="0" frameY="-4" frameWidth="344" frameHeight="549"/>
+	<SubTexture name="dingd Down Worried0002" x="338" y="1749" width="340" height="548" frameX="-1" frameY="-1" frameWidth="344" frameHeight="549"/>
+	<SubTexture name="dingd Down Worried0003" x="338" y="1749" width="340" height="548" frameX="-1" frameY="-1" frameWidth="344" frameHeight="549"/>
+	<SubTexture name="dingd Down Worried0004" x="683" y="1751" width="338" height="549" frameX="-2" frameY="0" frameWidth="344" frameHeight="549"/>
+	<SubTexture name="dingd Down Worried0005" x="683" y="1751" width="338" height="549" frameX="-2" frameY="0" frameWidth="344" frameHeight="549"/>
+	<SubTexture name="dingd Idle Worried0000" x="1619" y="581" width="401" height="565" frameX="-1" frameY="-6" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0001" x="1619" y="1151" width="401" height="565" frameX="-1" frameY="-6" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0002" x="5" y="1155" width="399" height="567" frameX="0" frameY="-4" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0003" x="5" y="1155" width="399" height="567" frameX="0" frameY="-4" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0004" x="5" y="581" width="399" height="569" frameX="0" frameY="-2" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0005" x="409" y="581" width="399" height="569" frameX="0" frameY="-2" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0006" x="813" y="581" width="398" height="570" frameX="-1" frameY="-1" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0007" x="1216" y="581" width="398" height="570" frameX="-1" frameY="-1" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0008" x="5" y="5" width="398" height="571" frameX="-1" frameY="0" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0009" x="5" y="5" width="398" height="571" frameX="-1" frameY="0" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0010" x="408" y="5" width="398" height="571" frameX="-1" frameY="0" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0011" x="811" y="5" width="398" height="571" frameX="-1" frameY="0" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0012" x="1214" y="5" width="398" height="571" frameX="-1" frameY="0" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Idle Worried0013" x="1617" y="5" width="398" height="571" frameX="-1" frameY="0" frameWidth="402" frameHeight="571"/>
+	<SubTexture name="dingd Left Worried0000" x="5" y="1727" width="328" height="570"/>
+	<SubTexture name="dingd Left Worried0001" x="5" y="1727" width="328" height="570"/>
+	<SubTexture name="dingd Left Worried0002" x="1682" y="2271" width="320" height="570" frameX="-8" frameY="0" frameWidth="328" frameHeight="570"/>
+	<SubTexture name="dingd Left Worried0003" x="1682" y="2271" width="320" height="570" frameX="-8" frameY="0" frameWidth="328" frameHeight="570"/>
+	<SubTexture name="dingd Left Worried0004" x="329" y="2302" width="318" height="570" frameX="-9" frameY="0" frameWidth="328" frameHeight="570"/>
+	<SubTexture name="dingd Left Worried0005" x="329" y="2302" width="318" height="570" frameX="-9" frameY="0" frameWidth="328" frameHeight="570"/>
+	<SubTexture name="dingd Right Worried0000" x="5" y="2302" width="319" height="570" frameX="-6" frameY="0" frameWidth="325" frameHeight="570"/>
+	<SubTexture name="dingd Right Worried0001" x="5" y="2302" width="319" height="570" frameX="-6" frameY="0" frameWidth="325" frameHeight="570"/>
+	<SubTexture name="dingd Right Worried0002" x="1355" y="2271" width="322" height="570" frameX="-2" frameY="0" frameWidth="325" frameHeight="570"/>
+	<SubTexture name="dingd Right Worried0003" x="1355" y="2271" width="322" height="570" frameX="-2" frameY="0" frameWidth="325" frameHeight="570"/>
+	<SubTexture name="dingd Right Worried0004" x="1026" y="1758" width="324" height="570" frameX="0" frameY="0" frameWidth="325" frameHeight="570"/>
+	<SubTexture name="dingd Right Worried0005" x="1026" y="1758" width="324" height="570" frameX="0" frameY="0" frameWidth="325" frameHeight="570"/>
+	<SubTexture name="dingd Up Worried0000" x="1077" y="1156" width="319" height="597" frameX="-4" frameY="0" frameWidth="332" frameHeight="597"/>
+	<SubTexture name="dingd Up Worried0001" x="1077" y="1156" width="319" height="597" frameX="-4" frameY="0" frameWidth="332" frameHeight="597"/>
+	<SubTexture name="dingd Up Worried0002" x="746" y="1156" width="326" height="590" frameX="-1" frameY="-7" frameWidth="332" frameHeight="597"/>
+	<SubTexture name="dingd Up Worried0003" x="746" y="1156" width="326" height="590" frameX="-1" frameY="-7" frameWidth="332" frameHeight="597"/>
+	<SubTexture name="dingd Up Worried0004" x="409" y="1155" width="332" height="589" frameX="0" frameY="-8" frameWidth="332" frameHeight="597"/>
+	<SubTexture name="dingd Up Worried0005" x="409" y="1155" width="332" height="589" frameX="0" frameY="-8" frameWidth="332" frameHeight="597"/>
+</TextureAtlas>

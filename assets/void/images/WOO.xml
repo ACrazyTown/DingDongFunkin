@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WOO.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF WOOO instance 10000" x="0" y="0" width="408" height="413" frameX="-28" frameY="-2" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10001" x="0" y="0" width="408" height="413" frameX="-28" frameY="-2" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10002" x="420" y="0" width="408" height="413" frameX="-27" frameY="-2" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10003" x="420" y="0" width="408" height="413" frameX="-27" frameY="-2" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10004" x="840" y="0" width="375" height="406" frameX="-30" frameY="-19" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10005" x="840" y="0" width="375" height="406" frameX="-30" frameY="-19" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10006" x="1227" y="0" width="381" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10007" x="1227" y="0" width="381" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10008" x="1620" y="0" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10009" x="1620" y="0" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10010" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10011" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10012" x="394" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10013" x="394" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10014" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10015" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10016" x="394" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10017" x="394" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10018" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10019" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10020" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10021" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10022" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10023" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10024" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10025" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10026" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10027" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10028" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10029" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10030" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10031" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10032" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10033" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10034" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10035" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10036" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10037" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10038" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10039" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10040" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10041" x="0" y="425" width="382" height="403" frameX="-26" frameY="-21" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10042" x="788" y="425" width="375" height="406" frameX="-30" frameY="-19" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10043" x="788" y="425" width="375" height="406" frameX="-30" frameY="-19" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10044" x="1175" y="425" width="408" height="413" frameX="-28" frameY="-2" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10045" x="1175" y="425" width="408" height="413" frameX="-28" frameY="-2" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10046" x="1595" y="425" width="426" height="414" frameX="-12" frameY="-1" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10047" x="1595" y="425" width="426" height="414" frameX="-12" frameY="-1" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10048" x="0" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10049" x="0" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10050" x="452" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10051" x="452" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10052" x="904" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10053" x="904" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10054" x="1356" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10055" x="1356" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10056" x="1356" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10057" x="1356" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+	<SubTexture name="BF WOOO instance 10058" x="1356" y="851" width="440" height="415" frameX="0" frameY="0" frameWidth="440" frameHeight="425"/>
+</TextureAtlas>

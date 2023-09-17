@@ -1,0 +1,50 @@
+{
+    "format": "SPARROW",
+    "character": "lapis",
+    "animations": 
+    [
+        {
+            "name": "idle",
+            "prefix": "lapis Idle",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "lapis Left",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "lapis Down",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "lapis Up",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "Lapis Right",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        }
+    ],
+    "flipX": false,
+    "isGF": false,
+    "color": "#6ADB6C"
+}

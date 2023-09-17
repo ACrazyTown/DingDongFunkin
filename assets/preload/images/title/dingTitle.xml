@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dingTitle.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dingd Idle instance 10000" x="0" y="0" width="473" height="646" frameX="-7" frameY="-18" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10001" x="0" y="0" width="473" height="646" frameX="-7" frameY="-18" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10002" x="479" y="0" width="477" height="648" frameX="-3" frameY="-15" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10003" x="479" y="0" width="477" height="648" frameX="-3" frameY="-15" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10004" x="962" y="0" width="477" height="659" frameX="-1" frameY="-4" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10005" x="962" y="0" width="477" height="659" frameX="-1" frameY="-4" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10006" x="1445" y="0" width="476" height="662" frameX="0" frameY="-1" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10007" x="1445" y="0" width="476" height="662" frameX="0" frameY="-1" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10008" x="0" y="668" width="475" height="663" frameX="0" frameY="0" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10009" x="0" y="668" width="475" height="663" frameX="0" frameY="0" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10010" x="0" y="668" width="475" height="663" frameX="0" frameY="0" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10011" x="0" y="668" width="475" height="663" frameX="0" frameY="0" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10012" x="0" y="668" width="475" height="663" frameX="0" frameY="0" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Idle instance 10013" x="0" y="668" width="475" height="663" frameX="0" frameY="0" frameWidth="480" frameHeight="664"/>
+	<SubTexture name="dingd Taunt instance 10000" x="481" y="668" width="519" height="656" frameX="0" frameY="-6" frameWidth="527" frameHeight="663"/>
+	<SubTexture name="dingd Taunt instance 10001" x="481" y="668" width="519" height="656" frameX="0" frameY="-6" frameWidth="527" frameHeight="663"/>
+	<SubTexture name="dingd Taunt instance 10002" x="1006" y="668" width="518" height="663" frameX="-10" frameY="0" frameWidth="527" frameHeight="663"/>
+	<SubTexture name="dingd Taunt instance 10003" x="1006" y="668" width="518" height="663" frameX="-10" frameY="0" frameWidth="527" frameHeight="663"/>
+	<SubTexture name="dingd Taunt instance 10004" x="1530" y="668" width="519" height="663" frameX="-7" frameY="0" frameWidth="527" frameHeight="663"/>
+	<SubTexture name="dingd Taunt instance 10005" x="1530" y="668" width="519" height="663" frameX="-7" frameY="0" frameWidth="527" frameHeight="663"/>
+</TextureAtlas>

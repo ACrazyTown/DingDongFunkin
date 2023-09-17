@@ -1,0 +1,27 @@
+# 2.0
+2.0 time, lets go BABY!
+
+## Added
+- NEW WEEKS: Donut+ & Donut++!
+  - Finish the storyline with Donut+, and fight Ding's buddies in Donut++!
+- NEW UI
+
+## Changed
+- New Engine: KE 1.4.2 -> MODIFIED KE 1.5.2
+- REWORKED ASSETS
+- REWORKED CHARTS
+
+## Bugfixes
+- i think everything from 1.0 & 1.1
+
+# 1.1
+
+- Performance improvements
+- Changed Art in the Menu & Story Mode Menu
+- Chart improvements
+- ??? (don't check freeplay after beating story on hard)
+
+
+# 1.0
+
+Initial release

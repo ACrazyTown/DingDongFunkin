@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="budSpeaker.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laploink0000" x="0" y="0" width="618" height="609" frameX="0" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0001" x="0" y="0" width="618" height="609" frameX="0" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0002" x="630" y="0" width="616" height="609" frameX="-1" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0003" x="630" y="0" width="616" height="609" frameX="-1" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0004" x="1258" y="0" width="616" height="609" frameX="-1" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0005" x="1258" y="0" width="616" height="609" frameX="-1" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0006" x="0" y="621" width="616" height="611" frameX="-1" frameY="-2" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0007" x="628" y="621" width="616" height="611" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0008" x="628" y="621" width="616" height="611" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0009" x="628" y="621" width="616" height="611" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0010" x="1256" y="621" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0011" x="1256" y="621" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0012" x="1256" y="621" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0013" x="0" y="1245" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0014" x="0" y="1245" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0015" x="628" y="1245" width="616" height="608" frameX="-1" frameY="-5" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0016" x="1256" y="1245" width="618" height="608" frameX="0" frameY="-5" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0017" x="0" y="1869" width="618" height="609" frameX="0" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0018" x="630" y="1869" width="616" height="609" frameX="-1" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0019" x="1258" y="1869" width="616" height="609" frameX="-1" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0020" x="1258" y="1869" width="616" height="609" frameX="-1" frameY="-4" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0021" x="0" y="2490" width="616" height="610" frameX="-1" frameY="-3" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0022" x="628" y="2490" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0023" x="628" y="2490" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0024" x="628" y="2490" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0025" x="1256" y="2490" width="616" height="613" frameX="-1" frameY="0" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0026" x="1256" y="2490" width="616" height="613" frameX="-1" frameY="0" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0027" x="1256" y="2490" width="616" height="613" frameX="-1" frameY="0" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0028" x="0" y="3115" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0029" x="0" y="3115" width="616" height="612" frameX="-1" frameY="-1" frameWidth="618" frameHeight="613"/>
+	<SubTexture name="laploink0030" x="0" y="0" width="618" height="609" frameX="0" frameY="-4" frameWidth="618" frameHeight="613"/>
+</TextureAtlas>

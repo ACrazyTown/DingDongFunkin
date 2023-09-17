@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lapis.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lapis Right0000" x="12" y="12" width="695" height="696"/>
+	<SubTexture name="Lapis Right0001" x="12" y="12" width="695" height="696"/>
+	<SubTexture name="Lapis Right0002" x="731" y="12" width="695" height="696"/>
+	<SubTexture name="Lapis Right0003" x="731" y="12" width="695" height="696"/>
+	<SubTexture name="lapis Down0000" x="1450" y="12" width="695" height="696"/>
+	<SubTexture name="lapis Down0001" x="1450" y="12" width="695" height="696"/>
+	<SubTexture name="lapis Down0002" x="2169" y="12" width="695" height="696"/>
+	<SubTexture name="lapis Down0003" x="2169" y="12" width="695" height="696"/>
+	<SubTexture name="lapis Idle0000" x="2888" y="12" width="695" height="696"/>
+	<SubTexture name="lapis Idle0001" x="2888" y="12" width="695" height="696"/>
+	<SubTexture name="lapis Idle0002" x="12" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0003" x="12" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0004" x="731" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0005" x="731" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0006" x="1450" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0007" x="1450" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0008" x="1450" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0009" x="1450" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0010" x="1450" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0011" x="1450" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0012" x="1450" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Idle0013" x="1450" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Left0000" x="2169" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Left0001" x="2169" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Left0002" x="2888" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Left0003" x="2888" y="732" width="695" height="696"/>
+	<SubTexture name="lapis Up0000" x="12" y="1452" width="695" height="696"/>
+	<SubTexture name="lapis Up0001" x="12" y="1452" width="695" height="696"/>
+	<SubTexture name="lapis Up0002" x="731" y="1452" width="695" height="696"/>
+	<SubTexture name="lapis Up0003" x="731" y="1452" width="695" height="696"/>
+</TextureAtlas>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dingTitleText.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ENTER PRESSED instance 10000" x="0" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10001" x="1484" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10002" x="0" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10003" x="1484" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10004" x="0" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10005" x="1484" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10006" x="0" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10007" x="1484" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10008" x="0" y="0" width="1478" height="79"/>
+	<SubTexture name="ENTER PRESSED instance 10009" x="1484" y="0" width="1478" height="79"/>
+	<SubTexture name="Press Enter to Begin instance 10000" x="0" y="85" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10001" x="1502" y="85" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10002" x="0" y="188" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10003" x="1502" y="188" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10004" x="0" y="291" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10005" x="1502" y="291" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10006" x="0" y="394" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10007" x="1502" y="394" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10008" x="0" y="497" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10009" x="1502" y="497" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10010" x="0" y="600" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10011" x="1502" y="600" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10012" x="0" y="703" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10013" x="1502" y="703" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10014" x="0" y="806" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10015" x="1502" y="806" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10016" x="0" y="909" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10017" x="1502" y="909" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10018" x="0" y="1012" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10019" x="1502" y="1012" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10020" x="0" y="1115" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10021" x="1502" y="1115" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10022" x="0" y="1218" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10023" x="0" y="1218" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10024" x="1502" y="1218" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10025" x="0" y="1321" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10026" x="1502" y="1321" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10027" x="0" y="1424" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10028" x="1502" y="1424" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10029" x="0" y="1527" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10030" x="1502" y="1527" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10031" x="0" y="1630" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10032" x="1502" y="1630" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10033" x="0" y="1733" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10034" x="1502" y="1733" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10035" x="0" y="1836" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10036" x="1502" y="1836" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10037" x="0" y="1939" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10038" x="1502" y="1939" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10039" x="0" y="2042" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10040" x="1502" y="2042" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10041" x="0" y="2145" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10042" x="1502" y="2145" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10043" x="0" y="2248" width="1496" height="97"/>
+	<SubTexture name="Press Enter to Begin instance 10044" x="0" y="85" width="1496" height="97"/>
+</TextureAtlas>

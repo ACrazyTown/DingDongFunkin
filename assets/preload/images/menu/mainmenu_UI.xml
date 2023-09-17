@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mainmenu_UI.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="CREDITS instance 10000" x="0" y="1875" width="691" height="194"/>
+	<SubTexture name="CREDITS instance 10001" x="0" y="1875" width="691" height="194"/>
+	<SubTexture name="CREDITS instance 10002" x="0" y="2069" width="685" height="188" frameX="-2" frameY="-4" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="CREDITS instance 10003" x="0" y="2069" width="685" height="188" frameX="-2" frameY="-4" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="CREDITS instance 10004" x="0" y="2069" width="685" height="188" frameX="-2" frameY="-4" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="CREDITS instance 10005" x="685" y="2251" width="685" height="187" frameX="-2" frameY="-3" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="CREDITS instance 10006" x="685" y="2251" width="685" height="187" frameX="-2" frameY="-3" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="CREDITS instance 10007" x="685" y="2251" width="685" height="187" frameX="-2" frameY="-3" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="CREDITS instance 10008" x="0" y="1875" width="691" height="194"/>
+	<SubTexture name="FREEPLAY instance 10000" x="0" y="1681" width="691" height="194"/>
+	<SubTexture name="FREEPLAY instance 10001" x="0" y="1681" width="691" height="194"/>
+	<SubTexture name="FREEPLAY instance 10002" x="0" y="1681" width="691" height="194"/>
+	<SubTexture name="FREEPLAY instance 10003" x="691" y="1875" width="685" height="188" frameX="-2" frameY="-3" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="FREEPLAY instance 10004" x="691" y="1875" width="685" height="188" frameX="-2" frameY="-3" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="FREEPLAY instance 10005" x="691" y="1875" width="685" height="188" frameX="-2" frameY="-3" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="FREEPLAY instance 10006" x="691" y="2063" width="685" height="188" frameX="-2" frameY="-2" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="FREEPLAY instance 10007" x="691" y="2063" width="685" height="188" frameX="-2" frameY="-2" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="FREEPLAY instance 10008" x="691" y="2063" width="685" height="188" frameX="-2" frameY="-2" frameWidth="691" frameHeight="194"/>
+	<SubTexture name="OPTIONS instance 10000" x="691" y="1681" width="691" height="194"/>
+	<SubTexture name="STORY MODE idle instance 10000" x="0" y="0" width="692" height="840" frameX="0" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE idle instance 10001" x="0" y="0" width="692" height="840" frameX="0" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE idle instance 10002" x="0" y="0" width="692" height="840" frameX="0" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE idle instance 10003" x="0" y="0" width="692" height="840" frameX="0" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE idle instance 10004" x="0" y="840" width="688" height="841" frameX="-2" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE idle instance 10005" x="0" y="840" width="688" height="841" frameX="-2" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE idle instance 10006" x="0" y="840" width="688" height="841" frameX="-2" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE idle instance 10007" x="0" y="840" width="688" height="841" frameX="-2" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE selected instance 10000" x="692" y="0" width="692" height="840" frameX="0" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE selected instance 10001" x="692" y="0" width="692" height="840" frameX="0" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE selected instance 10002" x="692" y="0" width="692" height="840" frameX="0" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE selected instance 10003" x="692" y="0" width="692" height="840" frameX="0" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE selected instance 10004" x="688" y="840" width="688" height="841" frameX="-2" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE selected instance 10005" x="688" y="840" width="688" height="841" frameX="-2" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE selected instance 10006" x="688" y="840" width="688" height="841" frameX="-2" frameY="0" frameWidth="692" frameHeight="841"/>
+	<SubTexture name="STORY MODE selected instance 10007" x="688" y="840" width="688" height="841" frameX="-2" frameY="0" frameWidth="692" frameHeight="841"/>
+</TextureAtlas>

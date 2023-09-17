@@ -1,0 +1,56 @@
+{
+    "format": "SPARROW",
+    "character": "ding",
+    "animations": [
+        {
+            "name": "idle",
+            "prefix": "dingd Idle",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "dingd Up",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [0, 31]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "dingd Left",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [18]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "dingd Right",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-16]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "dingd Down",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [0, -20]
+        },
+        {
+            "name": "taunt",
+            "prefix": "dingd Taunt",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [51]
+        }
+    ],
+    "flipX": false,
+    "isGF": false
+}

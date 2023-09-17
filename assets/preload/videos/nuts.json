@@ -1,0 +1,9 @@
+{
+    "subtitles": [
+        {"event": "TEXT_CLEAR", "startTime": 3.19, "endTime": 69420.0, "text":"Okay man,", "character": "Ding", "showCharacterText": false},
+        {"event": "TEXT_APPEND_WITH_SPACE", "startTime": 4.10, "endTime": 5.08, "text":"you're nuts.", "character": "Ding", "showCharacterText": false},
+        {"event": "TEXT_CLEAR", "startTime": 5.09, "endTime": 5.14, "text":"Like,", "character": "Ding", "showCharacterText": false},
+        {"event": "TEXT_APPEND", "startTime": 5.15, "endTime": 6.14, "text":"insane type of nuts.", "character": "Ding", "showCharacterText": false},
+        {"event": "TEXT_CLEAR", "startTime": 10.0, "endTime": 11, "text":"Beep!", "character": "Boyfriend", "showCharacterText": false}
+    ]
+}

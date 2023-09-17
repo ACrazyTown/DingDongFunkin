@@ -1,0 +1,59 @@
+{
+  "dependencies": [
+    {
+      "name": "actuate",
+      "type": "haxelib",
+      "version": "1.9.0"
+    },
+    {
+      "name": "discord_rpc",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/Aidan63/linc_discord-rpc"
+    },
+    {
+      "name": "flixel",
+      "type": "haxelib",
+      "version": "5.3.1"
+    },
+    {
+      "name": "flixel-addons",
+      "type": "haxelib",
+      "version": "3.1.1"
+    },
+    {
+      "name": "flixel-ui",
+      "type": "haxelib",
+      "version": "2.5.0"
+    },
+    {
+      "name": "flxanimate",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/Dot-Stuff/flxanimate"
+    },
+    {
+      "name": "hscript",
+      "type": "haxelib",
+      "version": "2.5.0"
+    },
+    {
+      "name": "hxCodec",
+      "type": "haxelib",
+      "version": "3.0.2"
+    },
+    {
+
+      "name": "lime",
+      "type": "haxelib",
+      "version": "8.0.2"
+    },
+    {
+      "name": "openfl",
+      "type": "haxelib",
+      "version": "9.2.1"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "format": "SPARROW",
+    "character": "ocean",
+    "animations": 
+    [
+        {
+            "name": "idle",
+            "prefix": "ocean Idle",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "ocean Left",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [12]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "ocean Down",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-3, -19]
+        },
+        {
+            "name": "singUP",
+            "prefix": "ocean Up",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [7, 24]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "ocean Right",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-10, -4]
+        }
+    ],
+    "flipX": false,
+    "isGF": false,
+    "color": "#335198"
+}

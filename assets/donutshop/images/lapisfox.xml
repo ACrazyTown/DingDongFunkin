@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lapisfox.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lapis Fox Dance instance 10000" x="0" y="0" width="247" height="572" frameX="0" frameY="-10" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10001" x="0" y="0" width="247" height="572" frameX="0" frameY="-10" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10002" x="253" y="0" width="244" height="579" frameX="-7" frameY="-3" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10003" x="253" y="0" width="244" height="579" frameX="-7" frameY="-3" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10004" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10005" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10006" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10007" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10008" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10009" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10010" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10011" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10012" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+	<SubTexture name="Lapis Fox Dance instance 10013" x="503" y="0" width="244" height="582" frameX="-9" frameY="0" frameWidth="253" frameHeight="582"/>
+</TextureAtlas>

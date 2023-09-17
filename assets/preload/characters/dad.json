@@ -1,0 +1,50 @@
+{
+    "format": "SPARROW",
+    "character": "dad",
+    "animations": 
+    [
+        {
+            "name": "idle",
+            "prefix": "Dad idle dance",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": []
+        },
+        {
+            "name": "singUP",
+            "prefix": "Dad Sing Note UP",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-6, 50]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "Dad Sing Note RIGHT",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [0, 27]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "Dad Sing Note DOWN",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [0, -30]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "Dad Sing Note LEFT",
+            "fps": 24,
+            "loop": false,
+            "indices": [],
+            "offset": [-10, 10]
+        }
+    ],
+    "flipX": false,
+    "isGF": false,
+    "color": "#AF66CE"
+}
