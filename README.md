@@ -22,12 +22,12 @@ _**[Dorbellprod](https://twitter.com/dorbellprod) - CREATOR OF DINGDONGDIRT, GAM
 ### DingDong's Funkin' Team
 **[A Crazy Town (me!)](https://twitter.com/acrazytown)** - Lead programmer, musician, artist and animator.\
 **[anttv](https://github.com/AnthonyShitHole)** - Assistant programmer & beta tester.\
-**[MaryShmary](https://twitter.com/cherry_shmary_)** - Background art for the menus.\
+**[MaryShmary](https://twitter.com/maryshade)** - Background art for the menus.\
 **[DespawnedDiamond](https://twitter.com/despawnedd)** - Charting improvements & beta tester.
 
 ### Special Thanks
 **[Ocean](https://twitter.com/oceanobody)** - Beta tester, made the funny "You are not a failure" image and character in Week 2 (Halloween song)!\
-**[LapisFox14](https://twitter.com/LapisFox14)** - Week 2 character (Shark rap song)!
+**[LapisFox14](https://twitter.com/LapisFox14)** - Week 2 character (Shark rap song)!\
 **[Sketch](https://twitter.com/NameIsTemporari)** - Beta tester.\
 **[Giodude](https://twitter.com/giodude672)** - Beta tester.\
 **[DakotaDepresso](https://twitter.com/DakotaDepresso)** - Idea for DingDongDoom's name.\
